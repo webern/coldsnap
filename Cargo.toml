@@ -10,7 +10,7 @@ repository = "https://github.com/awslabs/coldsnap"
 keywords = ["AWS", "Amazon", "EBS", "snapshot"]
 
 [dependencies]
-argh = "0.1.3"
+argh = "0.1.4"
 tokio = "0.2.21"
 sha2 = "0.9.0"
 bytes = "0.5.6"
